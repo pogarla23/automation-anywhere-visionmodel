@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 
 #render_template: renders HTML files for display on web browser
-#request 
+#request: object that contains all data sent from client to the server
 # import torch
 # from torchvision import transforms
 # from PIL import Image
@@ -33,7 +33,7 @@ def predict():
     #for production: add aditional checks for input validation (only images allowed)
     
     
-    
+    #matplotlib screenshot. plt library (screenshots image that is extracted with annotations)-->passed through function to display
     return render_template('index.html')
 
 if __name__ == '__main__':
