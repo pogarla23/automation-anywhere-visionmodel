@@ -6,8 +6,8 @@ Welcome to our comprehensive project documentation. Our team is composed of skil
 
 - **Matthew Benfield**: Specialist in neural networks and image processing.
 - **Melody Enwere**: Data scientist with a keen focus on machine learning applications.
-- **Pooja Garlapati**: AI enthusiast with a passion for innovative solutions.
-- **Nicole Sanchez**: Expert in cloud computing and system architecture.
+- **Pooja Garlapati**: Expert in real-time object detection and data preprocessing techniques.
+- **Nicole Sanchez**: AI enthusiast with a passion for innovative solutions, excelling in project management and driving cutting-edge machine learning applications.
 ## Introduction
 
 At Automation Anywhere, we leverage AI-powered robotic process automation (RPA) to enhance business processes like data entry and email responses. Our project develops an object detection model that automates the identification and verification of signatures in business documents, thereby enhancing data analysis capabilities and streamlining workflow.
